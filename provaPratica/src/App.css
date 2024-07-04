@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: rgb(42, 115, 211);
+  padding: 20px 50px;
+  justify-content: space-between;
+  display: flex;
+  color: white;
+  font-size: 10px;
+}
+header img{
+  width: 80px;
+}
+
+
+
+
+
+@media (max-width: 768px) {
+  .headerIdentifica {
+      flex-direction: column;
+      text-align: center;
+  }
+
+}
+
+
+
+
+
+
+
+
